@@ -89,18 +89,6 @@ I am a versatile Python programmer with a passion for technology and a diverse s
 
   
 
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
 
 
 
