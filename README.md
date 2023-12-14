@@ -4,12 +4,6 @@
 
 I am a versatile Python programmer with a passion for technology and a diverse skill set that spans multiple domains. As I delved deeper into the software development realm, I honed my expertise in building robust and scalable applications. Driven by a relentless curiosity, I embarked on a journey into the realm of data science and machine learning. 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=takibyeasar&label=Profile%20views&color=0e75b6&style=flat" alt="takibyeasar" /> </p>
-
-<p align="left"> <a href="https://twitter.com/takibyeasar" target="blank"><img src="https://img.shields.io/twitter/follow/takibyeasar?logo=twitter&style=for-the-badge" alt="takibyeasar" /></a> </p>
-
 - 🌱 I’m currently learning **Data Science & Machine Learning**
 
 - 💬 Ask me about **Python,Django,Data Science & Machine Learning**
