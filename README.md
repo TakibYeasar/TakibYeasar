@@ -35,11 +35,14 @@ With hands-on experience in **Django REST Framework** and **FastAPI**, I design 
 I'm always open to collaborating on exciting projects, contributing to open-source, and learning new technologies. If you’re looking for a backend developer who blends technical expertise with a passion for AI and machine learning, feel free to reach out!
 
 ### 📬 How to reach me:
-- Email: [mdtakibyeasar@gmail.com](mailto:mdtakibyeasar@gmail.com)
-- Twitter: [@takibyeasar](https://twitter.com/takibyeasar)
-- LinkedIn: [Md Takib Yeasar](https://linkedin.com/in/md-takib-yeasar)
-- Codeforces: [Yeasar](https://codeforces.com/profile/yeasar)
-- LeetCode: [takibyeasar](https://www.leetcode.com/takibyeasar)
+<p align="left">
+  <a href="mailto:mdtakibyeasar@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="mdtakibyeasar@gmail.com" height="30" width="40" /></a>
+  <a href="https://twitter.com/takibyeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takibyeasar" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/md-takib-yeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-takib-yeasar" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/yeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yeasar" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/takibyeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takibyeasar" height="30" width="40" /></a>
+</p>
+
 
 
 ## Github Stats  
