@@ -3,6 +3,11 @@
 
 ## Backend Developer | AI Enthusiast | Machine Learning & NLP Specialist
 
+<p align="center">
+  <img src="Md Takib Yeasar.png" alt="Banner" width="100%" />
+</p>
+
+
 ### Glad to see you here!
 
 I'm a **versatile Backend Developer** with a strong passion for **Python** and a diverse skill set that spans across **software development**, **AI**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)**. I specialize in creating scalable, efficient web applications and APIs with a focus on performance and maintainability.
