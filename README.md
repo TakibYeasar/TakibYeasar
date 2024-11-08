@@ -1,7 +1,7 @@
 
-# Hi there, I'm Yeasar 👋
+# Hi there, I'm Md Takib Yeasar 👋
 
-## Backend Developer | AI Enthusiast | Machine Learning & NLP Specialist
+## Backend Developer | AI Enthusiast | Machine Learning & NLP
 
 <p align="center">
   <img src="Md Takib Yeasar.png" alt="Banner" width="100%" />
@@ -51,7 +51,7 @@ I'm always open to collaborating on exciting projects, contributing to open-sour
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table style="width: 100%" ><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TakibYeasar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
