@@ -1,71 +1,45 @@
-## Hey 👋, I'm Md Takib Yeasar!  
-  
 
-![](https://media.licdn.com/dms/image/D5616AQETm59IkbQ2Kg/profile-displaybackgroundimage-shrink_350_1400/0/1702300354779?e=1707955200&v=beta&t=z0PHlFdQsUnRmg0ZVomTnZ4zeLl_33f0NL756MlSX_w)  
+# Hi there, I'm Yeasar 👋
 
-  
+## Backend Developer | AI Enthusiast | Machine Learning & NLP Specialist
 
+### Glad to see you here!
 
+I'm a **versatile Backend Developer** with a strong passion for **Python** and a diverse skill set that spans across **software development**, **AI**, **Machine Learning (ML)**, and **Natural Language Processing (NLP)**. I specialize in creating scalable, efficient web applications and APIs with a focus on performance and maintainability.
 
-### Glad to see you here!  
-I am a versatile Python programmer with a passion for technology and a diverse skill set that spans into the software development realm, I honed my expertise in building robust and scalable applications
-  
+With hands-on experience in **Django REST Framework** and **FastAPI**, I design solutions that solve complex problems and integrate intelligent systems into applications. I’m also deeply invested in using **data science** and **ML** techniques to bring smart, data-driven insights to my projects.
 
-<br/>  
+### 🚀 What I Do
+- Build **fast**, **scalable**, and **secure** backend systems with **Django REST Framework** and **FastAPI**.
+- Design and deploy **machine learning models** and **NLP applications** to provide intelligent insights.
+- Implement **data-driven solutions** that empower businesses with actionable insights and improved decision-making.
+- Optimize **algorithms** and **data structures** to solve complex technical challenges efficiently.
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/takibyeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="takibyeasar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md-takib-yeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-takib-yeasar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/yeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yeasar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/takibyeasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="takibyeasar" height="30" width="40" /></a>
-</p>
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="100%">
-
-- ⏩ How to reach me mdtakibyeasar@gmail.com  
-  
-
-- 🌱 I’m currently learning Data Science & Machine Learning  
-  
-
-- ❓ Ask me about  Python, Django, Data Science & Machine Learning  
-
-</td></tr></table>  
-
-<br/>  
+### 🔧 Technologies & Tools
+- **Languages**: Python, C++
+- **Backend Frameworks**: Django REST Framework, FastAPI
+- **AI & Machine Learning**: Data Science, ML Models, NLP, TensorFlow, Scikit-learn
+- **Databases**: PostgreSQL, Redis
+- **DevOps & Cloud**: Docker, AWS, Kubernetes (familiar with CI/CD pipelines)
+- **Problem Solving**: Advanced algorithms, Data Structures, Competitive Programming
 
 
-## Languages and Tools  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" /></a> 
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-</div>  
+### ❓ Ask me about:
+- **Python** 🐍
+- **Django REST Framework** 🖧
+- **Machine Learning** 🤖
+- **Data Science** 📊
+- **Natural Language Processing** 🧠
 
-<br/>  
+### 🧠 Let's Connect!
+I'm always open to collaborating on exciting projects, contributing to open-source, and learning new technologies. If you’re looking for a backend developer who blends technical expertise with a passion for AI and machine learning, feel free to reach out!
+
+### 📬 How to reach me:
+- Email: [mdtakibyeasar@gmail.com](mailto:mdtakibyeasar@gmail.com)
+- Twitter: [@takibyeasar](https://twitter.com/takibyeasar)
+- LinkedIn: [Md Takib Yeasar](https://linkedin.com/in/md-takib-yeasar)
+- Codeforces: [Yeasar](https://codeforces.com/profile/yeasar)
+- LeetCode: [takibyeasar](https://www.leetcode.com/takibyeasar)
 
 
 ## Github Stats  
@@ -80,9 +54,6 @@ I am a versatile Python programmer with a passion for technology and a diverse s
 </td></tr></table>  
 
 <br/>  
-
-  
-
 
 
 
